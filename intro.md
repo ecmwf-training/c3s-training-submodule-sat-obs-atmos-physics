@@ -1,4 +1,4 @@
-![logo](./LogoLine_EC_Cop_ECMWF.png)
+![logo](./img/LogoLine_EC_Cop_ECMWF.png)
 
 <br>
 
