@@ -1,0 +1,7 @@
+cdsapi
+numpy
+netCDF4
+xarray
+matplotlib
+cartopy
+jupyterlab-myst
