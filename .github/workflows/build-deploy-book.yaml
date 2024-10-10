@@ -4,7 +4,7 @@ name: build-deploy-book
 on:
   push:
     branches:
-    - 'develop'
+    - '**'
 
   # Allow workflow to be dispatched on demand
   workflow_dispatch:
@@ -55,7 +55,7 @@ jobs:
 
   # This job publishes the book to Github Pages
   deploy:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/develop'
 
     # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
     permissions:
