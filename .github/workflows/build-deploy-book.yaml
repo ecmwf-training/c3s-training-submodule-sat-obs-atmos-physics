@@ -4,7 +4,10 @@ name: build-deploy-book
 on:
   push:
     branches:
-    - '**'
+    - 'develop'
+  pull_request:
+    branches:
+    - 'develop'
 
   # Allow workflow to be dispatched on demand
   workflow_dispatch:
