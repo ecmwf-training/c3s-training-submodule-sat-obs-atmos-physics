@@ -13,7 +13,6 @@ To create an environment for building Jupyter Books, run the following:
 conda create -y -n JUPYTER-BUILD -c conda-forge python=3.11 
 conda activate JUPYTER-BUILD
 pip install jupyter-book
-pip install ghp-import
 ```
 
 ### Testing the JupyterBook Build
