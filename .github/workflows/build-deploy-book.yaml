@@ -48,7 +48,7 @@ jobs:
         jupyter-book build .
 
     - name: Upload build
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/develop'
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./_build/html
