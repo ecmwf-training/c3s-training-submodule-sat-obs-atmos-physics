@@ -1,6 +1,5 @@
 ![logo](./img/LogoLine_EC_Cop_ECMWF.png)
 
-<br>
 
 # C3S Satellite-Observations (ECV) Lot1 Training notebooks
 
