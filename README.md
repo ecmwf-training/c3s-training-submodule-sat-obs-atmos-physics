@@ -1,6 +1,6 @@
-# c3s-satellite-observations-lot1
+# c3s-training-submodule-sat-obs-atmos-physics
 
-A repository for storing the Satellite Observations training material. This repository will automatically 
+A repository for storing the Satellite Observations - Atmospheric Physics training material. This repository will automatically 
 build a develop version of the Jupyter Book that can be used for review purposes.
 
 ## Best practices for Jupyter notebooks
