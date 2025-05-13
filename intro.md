@@ -1,7 +1,7 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
 
-# C3S satellite observations (ECV) - Atmospheric physics
+# C3S satellite observations (ECV) - atmospheric physics
 
 Satellite observations play a crucial role in monitoring various aspects of the Earth's atmosphere. This tutorial series explores the utilization of satellite data for comprehensive meteorological analyses and environmental monitoring of Atmospheric Physic parameters. 
 
