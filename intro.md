@@ -1,7 +1,7 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
 
-# C3S Satellite-Observations (ECV) - Atmospheric Physics
+# C3S Satellite-Observations (ECV) - Atmospheric physics
 
 **PLEASE NOTE THAT THIS A DEVELOPMENT INSTANCE, THESE NOTE BOOKS ARE OFFICIALLY PUBLISHED ELSEWHERE**
 
