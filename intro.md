@@ -1,20 +1,15 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
 
-# C3S Satellite-Observations (ECV) - Atmospheric physics
-
-**PLEASE NOTE THAT THIS A DEVELOPMENT INSTANCE, THESE NOTE BOOKS ARE OFFICIALLY PUBLISHED ELSEWHERE**
-
-This Jupyter book is a sub-module of the core C3S training material, it is published here for reviewing the
-content prior to publication.
+# C3S satellite observations (ECV) - Atmospheric physics
 
 Satellite observations play a crucial role in monitoring various aspects of the Earth's atmosphere. This tutorial series explores the utilization of satellite data for comprehensive meteorological analyses and environmental monitoring of Atmospheric Physic parameters. 
 
-## Earth Radiation Budget
+## Earth radiation budget
 
 The Earth's radiation budget is a critical component of the climate system, representing the balance between incoming solar radiation and outgoing thermal radiation. Understanding this balance is crucial for studying Earth's energy budget and climate dynamics. This tutorial series delves into various aspects of the Earth's radiation budget and related datasets.
 
-### Outgoing Longwave Radiation
+### Outgoing longwave radiation
 
 This notebook-tutorial provides a practical introduction to the HIRS dataset available on
 [C3S Earth's radiation budget from 1979 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-earth-radiation-budget?tab=overview).  
@@ -26,7 +21,7 @@ Two figures below are results of Use Case 1 and 2, and the result of a successfu
 ![logo](./img/hirs_olr_banner.png)
 
 
-### Analysis of the CLARA Earth Radiation Budget Product
+### Analysis of the CLARA Earth radiation budget product
 
 This notebook provides you with an introduction on EUMETSAT's CM SAF **CLARA-A3** dataset available at the [Climate Data Store](https://cds.climate.copernicus.eu/#!/home) (CDS). The dataset contains data for Essential Climate Variables (ECVs) _Earth Radiation Budget_, as well as _Cloud Properties and Surface Radiaiton Budget_, while this notebook focuses on **Earth Radiation Budget** as part of the ECV _Earth Radiation Budget_ available here: [Earth Radiation Budget from 1982 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-earth-radiation-budget?tab=overview).
 
@@ -35,7 +30,7 @@ Two figures below are results of Use Case 1 and 2, and the result of a successfu
 
 ![logo](./img/erb-clara-climatologies.png)
 
-### Analysis of the CERES Earth Radiation Budget Product
+### Analysis of the CERES Earth radiation budget product
 
 This notebook-tutorial provides an introduction to the use of the
 Cloud and Earth's Radiant Energy System (CERES) Energy Balanced and Filled (EBAF) Earth's Radiation Budget ([ERB](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-earth-radiation-budget?tab=overview)) data record
@@ -43,7 +38,7 @@ for climate studies.
 
 ![logo](./img/erb-ceres.png)
 
-### Total Solar Irradiance
+### Total solar irradiance
 
 This notebook provides a practical introduction to the
 [C3S Earth's radiation budget from 1979 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-earth-radiation-budget?tab=overview)
@@ -52,11 +47,11 @@ We give a short introduction to the ECV Earth Radiation Budget, ECV Product Tota
 
 ![logo](./img/TSI_composite.png)
 
-## Surface Radiation Budget
+## Surface radiation budget
 
 The surface radiation budget is a crucial component of Earth's energy balance, representing the balance between incoming solar radiation and outgoing terrestrial radiation at the Earth's surface. This subsection delves into the analysis of surface radiation budget climatologies and anomalies, providing insights into variations in solar and terrestrial radiation fluxes over time and space.
 
-### Surface Radiation Budget Climatologies and Anomalies
+### Surface radiation budget climatologies and anomalies
 
 This notebook provides you with an introduction on EUMETSAT's CM SAF **CLARA-A3** dataset available at the [Climate Data Store](https://cds.climate.copernicus.eu/#!/home) (CDS). The dataset contains data for Essential Climate Variables (ECVs) _Surface Radiation Budget_, as well as _Cloud Properties and Earth Radiaiton Budget_, while this notebook focuses on **Surface Radiation Budget** as part of the ECV _Surface Radiation Budget_ available here: [Surface Radiation Budget from 1982 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-surface-radiation-budget?tab=overview).
 
@@ -65,11 +60,11 @@ Two figures below are results of Use Case 1 and 2, and the result of a successfu
 
 ![logo](./img/srb-climatology-and-anomaly-banner.png)
 
-## Atmospheric Humidity and Cloud Cover
+## Atmospheric humidity and cloud cover
 
 Atmospheric humidity and cloud cover play crucial roles in regulating the Earth's energy balance and hydrological cycle. This subsection explores satellite-based measurements of atmospheric humidity, including total column water vapor and tropospheric humidity estimates derived from radio occultation data. Additionally, it examines satellite-derived cloud cover climatologies, providing insights into cloud fraction distributions and their impact on weather and climate processes.
 
-### Total Column Water Vapour
+### Total column water vapour
 
 This notebook-tutorial provides an introduction to the use of the
 combined global near-infrared (NIR) and microwave imager (MWI) total column water vapour (TCWV) data record ([COMBI](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-total-column-water-vapour-land-ocean?tab=overview))
@@ -77,13 +72,13 @@ for climate studies.
 
 ![logo](./img/wv-combi_banner.png)
 
-### Tropospheric Humidity Estimates from Satellite-based Radio Occultation Measurements
+### Tropospheric humidity estimates from satellite-based radio occultation measurements
 
 In this tutorial we will work with monthly-mean tropospheric humidity data from the Climate Data Store (CDS), demonstrating how the data can be accessed, and inspecting the data to get a quick view on the physical variables available and the data structures used. We will also have a closer look at some **_use cases_** that demonstrate a few useful applications and processing steps. The use cases include some plotting that will learn you about the humidity data and how it can be visualized.
 
 ![logo](./img/Humidity_est.png)
 
-### Cloud Fractional Cover Climatology
+### Cloud fractional cover climatology
 
 This notebook provides you with an introduction to EUMETSAT's CM SAF **CLARA-A3** dataset available at the [Climate Data Store](https://cds.climate.copernicus.eu/#!/home)(CDS). The dataset contains data for Essential Climate Variables (ECVs) _Cloud Properties_ as well as _Surface - and Earth Radiaiton Budget_, while this notebook focuses on **Cloud Fractional Cover** as part of the ECV _Cloud Properties_ available here: [Cloud properties global gridded monthly and daily data from 1982 to present derived from satellite observations](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-cloud-properties?tab=overview).
 
