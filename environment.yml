@@ -6,3 +6,7 @@ dependencies:
   - matplotlib
   - cartopy
   - jupyterlab-myst
+  - statsmodels
+  - pip
+  - pip:
+    - earthkit-plots

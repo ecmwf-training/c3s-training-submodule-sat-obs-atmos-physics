@@ -24,7 +24,7 @@ chapters:
   - file: cloud-cover-climatology.ipynb # COPCO-1666
     title: Cloud fractional cover climatology
   # Precipitation
-  - file: precipitation-giraffe # COPCO-1740
+  - file: precipitation-girafe # COPCO-1740
 
 
 
