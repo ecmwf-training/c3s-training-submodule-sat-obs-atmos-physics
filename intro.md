@@ -12,7 +12,7 @@ Satellite observations play a crucial role in monitoring various aspects of the 
 
 ## Earth Radiation Budget
 
-The Earth's radiation budget is a critical component of the climate system, representing the balance between incoming solar radiation and outgoing thermal radiation. Understanding this balance is crucial for studying Earth's energy budget and climate dynamics. This tutorial series delves into various aspects of the Earth's radiation budget and related datasets.
+The Earth's radiation budget is a critical component of the climate system, representing the balance between incoming solar radiation and outgoing thermal radiation. Understanding this balance is crucial for studying Earth's energy budget and climate dynamics. This tutorial series delves into various aspects of the Earth's radiation budget and related datasets..
 
 ### Outgoing Longwave Radiation
 
